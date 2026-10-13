@@ -11,7 +11,7 @@ SnapFridge is a web application where users upload a photo of their fridge or ki
     * Umut Uğurlu : Test Manager + Backend Developer
     * Talha Arpacık : Documentation Lead + AI Integration Developer
     * İdil Emiral : Communication Lead + Database Developer
-* *GH Repo/Project URL:* <repo link> (user captanc added if the repo is private)
+* *GH Repo/Project URL: https://github.com/ailkery/SnapFridge
 
 ## 3. Project Scope
 ### Project domain
